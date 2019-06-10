@@ -24,5 +24,7 @@ For choosing the root node we will use:
 2)Information Gain.
 
  ###### Functionality:
+ 
   Entropy : Quantifies the uncertainaty of chaos in the group.
+  
   Information Gain : Measures the reduction or change in the entropy.
