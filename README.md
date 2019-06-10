@@ -1,14 +1,18 @@
 # Decision-Tree-ID3
-#### Implementation for ID3
+
 There are variety of decision trees Algorithms ID3,CART,CHAID,C4.5....etc. 
 ### In this reposatory i will give a trial to implement ID3
 
 #### How it works ? (Steps)
 
-1)Starts at the root node. 
+1)Starts at the root node.
+
 2)splits the data into groups. 
+
 3)set a decision node.
+
 4)Move the data along the respective branches.
+
 5)Repeat the process until a stopping criterion is met.
 
 #### How to choose the root node ?
